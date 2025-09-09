@@ -1,2 +1,1 @@
-# bioinformatics-rosalind
-MODULE 3 : Github Repo submission
+Pranavi Yalavarthi + 1002230252 + BIOL5340-001
